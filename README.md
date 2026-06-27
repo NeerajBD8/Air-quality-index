@@ -1,3 +1,2 @@
 # Air-quality-index
- This project leverages machine learning to predict Air Quality Index (AQI) levels using meteorological data, pollution sources, and historical 
-trends, aiding proactive measures for air pollution management
+ This project uses machine learning techniques to predict Air Quality Index (AQI) levels based on historical air quality and pollutant data. The model analyzes factors such as CO, NO₂, Ozone, PM2.5, and SO₂ levels to forecast AQI and support air pollution monitoring and management.
